@@ -1,6 +1,21 @@
-# 💫 About Me:![image](https://github.com/user-attachments/assets/ffe596ad-7072-483c-9d70-452522c50cd0)
+👨‍💻 I architect digital solutions at the intersection of functionality and elegance, wielding React.js, Next.js, Angular.js, and Java Spring Boot to craft systems that don't just function — they perform.
 
-👨‍💻 I’m currently working on:<br>An innovative internet banking application for a diverse bank, leveraging cutting-edge technologies to enhance financial services.<br><br>🤝 I’m looking to collaborate on:<br>Web development projects that push the boundaries of user experience and performance, especially those involving React.js, Next.js, or Angular.js.<br><br>💡 I’m looking for help with:<br>Expanding my knowledge and expertise in Java and Spring Boot to build robust backend systems.<br><br>🌱 I’m currently learning:<br>Java and Spring Boot to complement my frontend skills and create end-to-end solutions.<br><br>💬 Ask me about:<br><br>Building scalable web applications with React.js, Next.js, and Angular.js.<br>Writing clean, efficient, and maintainable code in JavaScript and TypeScript.<br>Best practices for crafting seamless user interfaces and experiences.<br>⚡ Fun fact:<br>I’m passionate about bridging the gap between intuitive design and powerful functionality, ensuring technology serves all users effortlessly.
+My engineering philosophy centers on building fintech infrastructures and enterprise platforms where milliseconds, security, and scalability aren't afterthoughts, but foundational requirements.
+
+🚀 My recent work includes:
+Designing the core architecture for a high-volume fiscal disbursement engine, processing millions in social aid transactions while maintaining cryptographic-grade audit trails.
+
+⚙️ When developing enterprise systems:
+I obsess over clean abstractions and ruthless efficiency — transforming complex, bureaucratic processes into streamlined digital experiences.
+
+🧩 Code quality is my professional signature:
+Every system I build is engineered for maintainability under scale, resilience against edge cases, and intuitive extensibility.
+
+🔬 I’m currently exploring:
+Deterministic system design to eliminate fintech reconciliation errors, and why most enterprise software fails under real-world stress conditions.
+
+🤝 I’m open to:
+Collaborating on systems where reliability isn’t negotiable — or engaging in deep technical discussions around architecture, performance, and transaction design.
 
 
 ## 🌐 Socials:
