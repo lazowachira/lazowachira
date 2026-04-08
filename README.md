@@ -1,4 +1,4 @@
-👨‍💻 I architect digital solutions at the intersection of functionality and elegance, wielding React.js, Next.js, Angular.js, and Java Spring Boot to craft systems that don't just function — they perform.
+About Me:![image](https://github.com/user-attachments/assets/ffe596ad-7072-483c-9d70-452522c50cd0)👨‍💻 I architect digital solutions at the intersection of functionality and elegance, wielding React.js, Next.js, Angular.js, and Java Spring Boot to craft systems that don't just function — they perform.
 
 My engineering philosophy centers on building fintech infrastructures and enterprise platforms where milliseconds, security, and scalability aren't afterthoughts, but foundational requirements.
 
